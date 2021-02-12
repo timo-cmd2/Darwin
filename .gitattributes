@@ -1,1 +1,11 @@
+*.darwin linguist-language=TOML
 
+*.darwin text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.bat text eol=lf
+*.build text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
