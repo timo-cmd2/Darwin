@@ -1,4 +1,0 @@
-[[greet]]
-  name: "greet"
-  func: "greet the user"
-  data: "Hello, world!"
